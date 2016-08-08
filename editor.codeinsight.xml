@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
-  </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseJSImports" value="false" />
-    <option name="COLLAPSE_JS_IMPORTS" value="false" />
-  </component>
-</application>
