@@ -1,0 +1,8 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/opt/boxen/nodenv/shims/node">
+      <version-cache version="5.7.1" last-modified="1457551172000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
+</application>
